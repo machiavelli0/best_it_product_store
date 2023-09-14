@@ -1,0 +1,30 @@
+[
+  {
+    "articleNumber": "001",
+    "name": "Produkt 1",
+    "description": "Beschreibung für Produkt 1",
+    "price": 19.99,
+    "image": "images/product.jpg"
+  },
+  {
+    "articleNumber": "002",
+    "name": "Produkt 2",
+    "description": "Beschreibung für Produkt 2",
+    "price": 29.99,
+    "image": "images/product.jpg"
+  },
+  {
+    "articleNumber": "003",
+    "name": "Produkt 3",
+    "description": "Beschreibung für Produkt 3",
+    "price": 39.99,
+    "image": "images/product.jpg"
+  },
+  {
+    "articleNumber": "004",
+    "name": "Produkt 4",
+    "description": "Beschreibung für Produkt 4",
+    "price": 49.99,
+    "image": "images/product.jpg"
+  }
+]
